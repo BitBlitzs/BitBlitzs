@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @BitBlitzs
-- 👀 I’m interested in web development, UI/UX design, and emerging technologies.
-- 🌱 I’m currently honing my skills in Next.js, and enhancing my expertise in PHP.
-- 💻 As a full-stack developer, I’m passionate about integrating front-end and back-end technologies to build innovative web applications.
-- 💞️ I’m looking to collaborate on exciting web projects that push the boundaries of user experience and innovation.
-- 📫 You can reach me via email at tw.kylework@gmail.com or connect with me on LinkedIn.
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m @BitBlitzs  
+- 💻 Full-stack developer focused on creating seamless, scalable web applications.  
+- 📚 Currently learning Java and solving problems on LeetCode to deepen my algorithmic thinking.  
+- 🤝 Strong believer in teamwork and clean, maintainable code.  
+- 🧠 Interested in web development, UI/UX, and emerging technologies.  
+- 🌐 Building my personal brand and working towards becoming a tech blogger.  
+- 📫 Reach me at tw.kylework@gmail.com or connect on LinkedIn.
 - ⚡ Fun fact: I'm an avid gamer and enjoy creating mini-games in my free time!
+
 
 <!---
 BitBlitzs/BitBlitzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
